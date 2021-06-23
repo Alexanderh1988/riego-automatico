@@ -13,6 +13,8 @@ Interface de control propia mediante bootstrap, html, php, ajax (no disponible a
   
 Opcion se puede tener una buena dashboard mediante Freeboard:
 
+<img src="https://github.com/Alexanderh1988/riego-automatico/blob/main/Freeboard%20dashboard.jpg?raw=true">
+
 
 
 

@@ -1,7 +1,7 @@
 # riego automatico
  codigo para sistemas con riego automatico y control mediante WIFI
  
- C+
+ C++
  
  Para chips: ESP8266, programado con compilador de arduino.
  Sensor: DHT11 instalar un transistor entre tierra y V++ (puede ser un S8055) para evitar corrosion galvanica, darle 0.1 seg de lectura es suficiente. 

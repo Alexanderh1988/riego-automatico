@@ -1,5 +1,5 @@
 # riego automatico
- codigo para sistemas con riego automatico y control mediante WIFI
+ codigo para chip ESP8266 para sistemas con riego automatico y control mediante WIFI
  
  C++
  

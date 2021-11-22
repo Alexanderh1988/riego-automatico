@@ -1,4 +1,4 @@
-# riego automatico
+# Riego Automatico
  codigo para chip ESP8266 para sistemas con riego automatico y control mediante WIFI
  
  C++
